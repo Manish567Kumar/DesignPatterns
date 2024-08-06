@@ -1,0 +1,7 @@
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\bin\Debug\Designpatters.exe.config
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\bin\Debug\Designpatters.exe
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\bin\Debug\Designpatters.pdb
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\obj\Debug\Designpatters.csprojAssemblyReference.cache
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\obj\Debug\Designpatters.csproj.CoreCompileInputs.cache
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\obj\Debug\Designpatters.exe
+C:\OneDriveData\OneDrive - DXC Production\Learning\Applications\Designpatters\obj\Debug\Designpatters.pdb
